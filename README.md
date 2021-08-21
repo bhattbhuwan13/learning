@@ -18,9 +18,9 @@
 
 ## Production
 
-- [ ] [Dashboard](https://madewithml.com/courses/mlops/dashboard/)
-- [ ] [CI/CD](https://madewithml.com/courses/mlops/cicd/)
-- [ ] [Infrastructure](https://madewithml.com/courses/mlops/infrastructure/)
+- [x] [Dashboard](https://madewithml.com/courses/mlops/dashboard/)
+- [x] [CI/CD](https://madewithml.com/courses/mlops/cicd/)
+- [x] [Infrastructure](https://madewithml.com/courses/mlops/infrastructure/)
 - [ ] [Monitoring ML Systems](https://madewithml.com/courses/mlops/monitoring/)
 - [ ] 
 
