@@ -187,7 +187,7 @@
 
 
 ### Be able to manipulate data with Numpy
-- [ ] [Article: A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
+- [x] [Article: A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
 - [ ] [Article: Good practices with numpy random number generators](https://albertcthomas.github.io/good-practices-random-number-generators/)
 - [ ] [Article: NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 - [ ] [Article: NumPy Fundamentals for Data Science and Machine Learning](https://pabloinsente.github.io/intro-numpy-fundamentals)
