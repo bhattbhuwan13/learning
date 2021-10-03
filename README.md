@@ -209,7 +209,7 @@
 - [ ] [Datacamp: Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas)
 - [ ] [ed: Implementing Predictive Analytics with Spark in Azure HDInsight](https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-2)
 - [ ] [Article: Modern Pandas](https://tomaugspurger.github.io)
-    - [ ] [Modern Pandas (Part 1)](https://tomaugspurger.github.io/modern-1-intro.html)
+    - [x] [Modern Pandas (Part 1)](https://tomaugspurger.github.io/modern-1-intro.html)
     - [ ] [Modern Pandas (Part 2)](https://tomaugspurger.github.io/method-chaining.html)
     - [ ] [Modern Pandas (Part 3)](https://tomaugspurger.github.io/modern-3-indexes.html)
     - [ ] [Modern Pandas (Part 4)](https://tomaugspurger.github.io/modern-4-performance.html)
