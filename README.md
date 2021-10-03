@@ -188,8 +188,8 @@
 
 ### Be able to manipulate data with Numpy
 - [x] [Article: A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
-- [ ] [Article: Good practices with numpy random number generators](https://albertcthomas.github.io/good-practices-random-number-generators/)
-- [ ] [Article: NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
+- [x] [Article: Good practices with numpy random number generators](https://albertcthomas.github.io/good-practices-random-number-generators/)
+- [x] [Article: NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 - [ ] [Article: NumPy Fundamentals for Data Science and Machine Learning](https://pabloinsente.github.io/intro-numpy-fundamentals)
 - [ ] [Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [ ] [Pluralsight: Working with Multidimensional Data Using NumPy](https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data)
